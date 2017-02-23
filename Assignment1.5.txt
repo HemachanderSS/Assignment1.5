@@ -1,0 +1,48 @@
+1.Hadoop in layman's term:
+	*It is a open source software that proved the framework to deal with large amount
+of data.
+	*There are two components in Hadoop
+		1.HDFS and 2.Mapreduce
+	1.HDFS:
+		The Hadoop Distributed File Systems is a storage part,which is mainly used
+to design span large clusters of commodity servers.
+	2.Mapreduce:
+		* Mapreduce is a prcessing part.
+		*It splits the input data into independent chunks which are processed,sorted
+and combined .
+	Hive is used to process structured data.
+	Pig is used to process unstructured data.
+
+
+2.The components of Hadoop framework:
+	*HDFS-Hadoop Distributed File System
+		The storage layer of the Hadoop Framework.
+	*MapReduce:
+		 Mapreduce is a prcessing part.It splits the input data into independent 
+chunks which are processed,sorted and combined .
+	*YARN-Yet Another Resource Negotiator
+		It is the cluster management layer of the Hadoop framework, using yarn we 
+can run multiple applications in Hadoop.
+	*Spark:
+		It used on top of the HDFS and it is faster than mapreduce function.
+		It allow data to load into memory.
+	*Hive:
+		It used to prcess structured data, which built on the top of Hadoop.
+	*HBase:
+		It is a NOSQL columnar database which is designed to run on top of HDFS.
+	*Flume:
+		It collects data from agents which then aggregates and moves into Hadoop.
+	*Mahout:
+		It is a machine learning library.It collects key algorithms for clustering,
+classification collaborative filtering and implements them on top of distributed data systems.
+	*SQOOP:
+		It is a tool which aids in processing data from other databases into Hadoop.
+
+
+3.The reasons to learn Big data technologies:
+	*Demands for Bigdata skills is extremely high.
+	*It brings better career opportunities.
+	*we can pace up with the exponentially growing  bid data market as well as new 
+technologies emerging along with it.	
+			
+
